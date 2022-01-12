@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A  RPG with characters, enemies, and a game object. The user will have the choice to attack or use a potion to increase one of their three stats: strength, agility, and health. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StaishaKnight/jest-another-RPG.git"
+  },
+  "author": "Staisha Knight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StaishaKnight/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/StaishaKnight/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
